@@ -12,12 +12,6 @@
 
 <br>
 
-```
-Hello 
-```
-
-<br>
-
 ## 📛 List of Badges
 
 ### Microsoft Products 🏢 
