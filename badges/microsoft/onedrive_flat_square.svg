@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#138BE4" d="M25 0h155v20H25z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="1" y="0" width="20" height="20" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iODAwIiB3aWR0aD0iMTIwMCIgdmlld0JveD0iLTE1NC41MDYzIC0xNjQuOTgwNSAxMzM5LjA1NDYgOTg5Ljg4MyI+PHBhdGggZD0iTTYyMi4yOTIgNDQ1LjMzOGwyMTIuNjEzLTIwMy4zMjdDNzkwLjc0MSA2OS44MDQgNjE1LjMzOC0zMy45OTYgNDQzLjEzIDEwLjE2OGEzMjEuOSAzMjEuOSAwIDAwLTE4OC45MiAxMzQuODM3YzMuMjktLjA4MyAzNjguMDgyIDMwMC4zMzMgMzY4LjA4MiAzMDAuMzMzeiIgZmlsbD0iIzAzNjRCOCIvPjxwYXRoIGQ9Ik0zOTIuNzc2IDE4My4yODNsLS4wMS4wMzVBMjU2LjIzMyAyNTYuMjMzIDAgMDAyNTcuNSAxNDQuOTIxYy0xLjEwNCAwLTIuMTg5LjA3LTMuMjkuMDgzQzExMi4wNjMgMTQ2Ljc2NS0xLjc0IDI2My40MjQuMDIgNDA1LjU2N2EyNTcuMzg5IDI1Ny4zODkgMCAwMDQ2LjI0NCAxNDQuMDRsMzE4LjUyOC0zOS44OTQgMjQ0LjIxLTE5Ni45MTV6IiBmaWxsPSIjMDA3OEQ0Ii8+PHBhdGggZD0iTTgzNC45MDUgMjQyLjAxMmMtNC42NzQtLjMxMi05LjM3LS41MjgtMTQuMTIzLS41MjhhMjA4LjQ2NCAyMDguNDY0IDAgMDAtODIuOTMgMTcuMTE3bC0uMDA2LS4wMjItMTI4Ljg0NCA1NC4yMiAxNDIuMDQxIDE3NS40NTYgMjUzLjkzNCA2MS43MjhjNTQuOC0xMDEuNzMyIDE2Ljc1Mi0yMjguNjI1LTg0Ljk4LTI4My40MjRhMjA5LjIzIDIwOS4yMyAwIDAwLTg1LjA5LTI0LjU0NnoiIGZpbGw9IiMxNDkwREYiLz48cGF0aCBkPSJNNDYuMjY0IDU0OS42MDdDOTQuMzYgNjE4Ljc1NyAxNzMuMjcgNjU5Ljk2NyAyNTcuNSA2NTkuOTIyaDU2My4yODFjNzYuOTQ2LjAyMiAxNDcuNjkxLTQyLjIwMiAxODQuMTk1LTEwOS45MzdMNjA5LjAwMSAzMTIuNzk4eiIgZmlsbD0iIzI4QThFQSIvPjwvc3ZnPg=="/>
+        <text x="90" y="14">Microsoft One Drive</text>
+    </g>
+</svg>
