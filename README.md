@@ -29,7 +29,7 @@
 ### Code-spaces / Editors / Coding Community 📄
 
 - [![atom](badges/codespaces/atom.svg)](https://arnoldvaz27.github.io/badges/codespaces/atom.svg) A badge used for representing Atom Editor
-- [![codepen](badges/codespaces/codepen.svg)](https://arnoldvaz27.github.io/codespaces/codepen.svg) A badge used for representing Codepen Editor
+- [![codepen](badges/codespaces/codepen.svg)](https://arnoldvaz27.github.io/badges/codespaces/codepen.svg) A badge used for representing Codepen Editor
 - [![dreamweaver](badges/codespaces/dreamweaver.svg)](https://arnoldvaz27.github.io/badges/codespaces/dreamweaver.svg) A badge used for representing Dreamweaver Editor
 - [![gitbook1](badges/codespaces/gitbook_1.svg)](https://arnoldvaz27.github.io/badges/codespaces/gitbook_1.svg) A badge used for representing Gitbook 1 
 - [![gitbook2](badges/codespaces/gitbook_2.svg)](https://arnoldvaz27.github.io/badges/codespaces/gitbook_2.svg) A badge used for representing Gitbook 2
