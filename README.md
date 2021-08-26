@@ -8,7 +8,13 @@
 
 ## 📝 About
 
-:hearts: **These badges are created by me using the svg image coding, these badges can be used by anyone and where they want on the web using the link(url) of the respective badge. You can use these badges in any documentations you want, on github, in your website and lots of other web stuffs where you need these badges** :hearts:
+❤️ **These badges are created by me using the svg image coding, these badges can be used by anyone and where they want on the web using the link(url) of the respective badge. You can use these badges in any documentations you want, on github, in your website and lots of other web stuffs where you need these badges** ❤️
+
+<br>
+
+```
+Hello 
+```
 
 <br>
 
