@@ -8,13 +8,16 @@
 
 <br>
 
+***Alternate Web Badges : -*** [Flat Corner Web Badges](https://github.com/arnoldvaz27/arnoldvaz27.github.io/Readme_flat.md)
+
+
 ## 📝 About
 
 ❤️ **These badges are created by me using the svg image coding, these badges can be used by anyone and where they want on the web using the link(url) of the respective badge. You can use these badges in any documentations you want, on github, in your website and lots of other web stuffs where you need these badges** ❤️
 
 <br>
 
-## 📛 List of Badges
+## 📛 List of Badges ```Round Corner```
 
 ### Microsoft Products 🏢 
 
@@ -65,11 +68,10 @@
 - [![reactivex](webbadges/programming/reactivex.svg)](https://arnoldvaz27.github.io/webbadges/programming/reactivex.svg) A badge used for Representing reactivex coding
 - [![redux](webbadges/programming/redux.svg)](https://arnoldvaz27.github.io/webbadges/programming/redux.svg) A badge used for representing Redux coding
 - [![tc39](webbadges/programming/tc39.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39.svg) A badge used for representing Tc39
-- [![tc39_1](webbadges/programming/tc39_1.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_1.svg) A badge used for representing Tc39_1 
-- [![tc39_2](webbadges/programming/tc39_2.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_2.svg) A badge used for representing Tc39_2 
-- [![tc39_3](webbadges/programming/tc39_3.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_3.svg) A badge used for representing Tc39_3 
-- [![tc39_4](webbadges/programming/tc39_4.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_4.svg) A badge used for representing Tc39_4 
-- [![tc39_5](webbadges/programming/tc39_5.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_5.svg) A badge used for representing Tc39_5 
+- [![tc39_2](webbadges/programming/tc39_2.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_2.svg) A badge used for representing Tc39_1 
+- [![tc39_3](webbadges/programming/tc39_3.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_3.svg) A badge used for representing Tc39_2 
+- [![tc39_4](webbadges/programming/tc39_4.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_4.svg) A badge used for representing Tc39_3 
+- [![tc39_5](webbadges/programming/tc39_5.svg)](https://arnoldvaz27.github.io/webbadges/programming/tc39_5.svg) A badge used for representing Tc39_4 
 - [![tensorflow](webbadges/programming/tensorflow.svg)](https://arnoldvaz27.github.io/webbadges/programming/tensorflow.svg) A badge used for representing Tensorflow coding
 - [![typescript](webbadges/programming/typescript.svg)](https://arnoldvaz27.github.io/webbadges/programming/typescript.svg) A badge used for representing Typescript coding
 - [![vue](webbadges/programming/vue.svg)](https://arnoldvaz27.github.io/webbadges/programming/vue.svg) A badge used for representing Vue coding
