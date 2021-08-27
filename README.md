@@ -8,7 +8,7 @@
 
 <br>
 
-***Alternate Web Badges : -*** [Flat Corner Web Badges](https://github.com/arnoldvaz27/arnoldvaz27.github.io/blob/main/Readme_flat.md)
+***Alternate Web Badges : -*** [Flat Corner Web Badges](https://github.com/arnoldvaz27/arnoldvaz27.github.io/Readme_flat.md)
 
 
 ## 📝 About
