@@ -12,7 +12,7 @@
 
 <br>
 
-***Alternate Web Badges : -*** [Flat Corner Web Badges](#flat)
+***Alternate Web Badges : -*** [Flat Corner Web Badges](#flat) (This link works on website only, not on github)
 
 
 ## 📝 About
@@ -233,7 +233,7 @@
 
 <br>
 
-***Alternate Web Badges : -*** [Round Corner Web Badges](#round)
+***Alternate Web Badges : -*** [Round Corner Web Badges](#round) (This link works on website only, not on github)
 
 <br>
 
