@@ -1,5 +1,7 @@
 #  Web Badges 😊 
 
+**View project on** [![github](badges/codespaces/github.svg)](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
+
 <br>
 
 👋 Sample Badges - ![ac milan](badges/footballclubs/ac_milan.svg)  ![audi](badges/cars/audi.svg) ![atom](badges/codespaces/atom.svg) ![amazon](badges/companies/amazon.svg) ![after effects](badges/designer/after_effects.svg)
@@ -89,6 +91,35 @@
 
 <br>
 
+### Developement Tools ✨
+
+- [![apiary](badges/development/apiary.svg)](https://arnoldvaz27.github.io/badges/developement/apiary.svg) A badge used for representing Apiary
+- [![bower](badges/development/bower.svg)](https://arnoldvaz27.github.io/badges/development/bower.svg) A badge used for representing Bower
+- [![codrops](badges/development/codrops.svg)](https://arnoldvaz27.github.io/badges/development/codrops.svg) A badge used for representing Codrops
+- [![coremail](badges/development/coremail.svg)](https://arnoldvaz27.github.io/badges/development/coremail.svg) A badge used for representing Coremail
+- [![eslint](badges/development/eslint.svg)](https://arnoldvaz27.github.io/badges/development/eslint.svg) A badge used for representing Eslint
+- [![grunt](badges/development/grunt.svg)](https://arnoldvaz27.github.io/badges/development/grunt.svg) A badge used for representing Grunt
+- [![gulp](badges/development/gulp.svg)](https://arnoldvaz27.github.io/badges/development/gulp.svg) A badge used for representing Gulp
+- [![hacker](badges/development/hacker.svg)](https://arnoldvaz27.github.io/badges/development/hacker.svg) A badge used for representing Hacker
+- [![issuehunt](badges/development/issuehunt.svg)](https://arnoldvaz27.github.io/badges/development/issuehunt.svg) A badge used for representing Issuehunt
+- [![jasmine](badges/development/jasmine.svg)](https://arnoldvaz27.github.io/badges/development/jasmine.svg) A badge used for representing Jasmine
+- [![jsfiddle](badges/development/jsfiddle.svg)](https://arnoldvaz27.github.io/badges/development/jsfiddle.svg) A badge used for representing Js Fiddle
+- [![juejin translation](badges/development/juejin_translation.svg)](https://arnoldvaz27.github.io/badges/development/juejin_translation.svg) A badge used for representing Juejin Translation
+- [![koenigsegg](badges/development/koenigsegg.svg)](https://arnoldvaz27.github.io/badges/development/koenigsegg.svg) A badge used for representing Koenigsegg
+- [![mocha](badges/development/mocha.svg)](https://arnoldvaz27.github.io/badges/development/mocha.svg) A badge used for representing mocha
+- [![modernizr](badges/development/modernizr.svg)](https://arnoldvaz27.github.io/badges/development/modernizr.svg) A badge used for representing Modernizr
+- [![monsoon](badges/development/monsoon.svg)](https://arnoldvaz27.github.io/badges/development/monsoon.svg) A badge used for representing Monsoon
+- [![qunit](badges/development/qunit.svg)](https://arnoldvaz27.github.io/badges/development/qunit.svg) A badge used for representing qunit
+- [![rollup](badges/development/rollup.svg)](https://arnoldvaz27.github.io/badges/development/rollup.svg) A badge used for representing Rollup
+- [![router](badges/development/router.svg)](https://arnoldvaz27.github.io/badges/development/router.svg) A badge used for representing Router
+- [![serverfault](badges/development/serverfault.svg)](https://arnoldvaz27.github.io/badges/development/serverfault.svg) A badge used for representing Serverfault
+- [![superuser](badges/development/superuser.svg)](https://arnoldvaz27.github.io/badges/development/superuser.svg) A badge used for representing Superuser
+
+
+
+
+<br>
+
 ### Football(Soccer) Clubs ⚽
 
 - [![ac milan](badges/footballclubs/ac_milan.svg)](https://arnoldvaz27.github.io/badges/footballclubs/ac_milan.svg) A badge used for representing Ac Milan Football Club Lovers
@@ -142,7 +173,56 @@
 
 <br>
 
+### Social Media ✨
+
+- [![facebook](badges/socialmedia/facebook.svg)](https://arnoldvaz27.github.io/badges/socialmedia/facebook.svg) A badge used for representing Facebook
+- [![google_plus](badges/socialmedia/google_plus.svg)](https://arnoldvaz27.github.io/badges/socialmedia/google_plus.svg) A badge used for representing Google Plus
+- [![instagram](badges/socialmedia/instagram.svg)](https://arnoldvaz27.github.io/badges/socialmedia/instagram.svg) A badge used for representing Instagram
+- [![line](badges/socialmedia/line.svg)](https://arnoldvaz27.github.io/badges/socialmedia/line.svg) A badge used for representing Line
+- [![lunkr](badges/socialmedia/lunkr.svg)](https://arnoldvaz27.github.io/badges/socialmedia/lunkr.svg) A badge used for representing Lunkr
+- [![medium](badges/socialmedia/medium.svg)](https://arnoldvaz27.github.io/badges/socialmedia/medium.svg) A badge used for representing Medium
+- [![messenger](badges/socialmedia/messenger.svg)](https://arnoldvaz27.github.io/badges/socialmedia/messenger.svg) A badge used for Representing messenger
+- [![pinterest](badges/socialmedia/pinterest.svg)](https://arnoldvaz27.github.io/badges/socialmedia/pinterest.svg) A badge used for Representing pinterest
+- [![reddit](badges/socialmedia/reddit.svg)](https://arnoldvaz27.github.io/badges/socialmedia/reddit.svg) A badge used for representing Reddit
+- [![rss](badges/socialmedia/rss.svg)](https://arnoldvaz27.github.io/badges/socialmedia/rss.svg) A badge used for representing rss
+- [![sina_weibo](badges/socialmedia/sina_weibo.svg)](https://arnoldvaz27.github.io/badges/socialmedia/sina_weibo.svg) A badge used for representing Sina Weibo
+- [![snapchat](badges/socialmedia/snapchat.svg)](https://arnoldvaz27.github.io/badges/socialmedia/snapchat.svg) A badge used for representing Snapchat
+- [![soundcloud](badges/socialmedia/soundcloud.svg)](https://arnoldvaz27.github.io/badges/socialmedia/soundcloud.svg) A badge used for representing Soundcloud
+- [![spotify](badges/socialmedia/spotify.svg)](https://arnoldvaz27.github.io/badges/socialmedia/spotify.svg) A badge used for representing Spotify
+- [![telegram](badges/socialmedia/telegram.svg)](https://arnoldvaz27.github.io/badges/socialmedia/telegram.svg) A badge used for representing Telegram
+- [![skype](badges/socialmedia/skype.svg)](https://arnoldvaz27.github.io/badges/socialmedia/skype.svg) A badge used for representing skype
+- [![wechat](badges/socialmedia/wechat.svg)](https://arnoldvaz27.github.io/badges/socialmedia/wechat.svg) A badge used for representing Wechat
+- [![whatsapp](badges/socialmedia/whatsapp.svg)](https://arnoldvaz27.github.io/badges/socialmedia/whatsapp.svg) A badge used for representing Whatsapp
+- [![youtube](badges/socialmedia/youtube.svg)](https://arnoldvaz27.github.io/badges/socialmedia/youtube.svg) A badge used for representing Youtube
+
+
+<br>
+
 ### Industries / Factories 🏬
 
 - [![reliance](badges/inc/reliance.svg)](https://arnoldvaz27.github.io/badges/inc/reliance.svg) A badge used for representing person working in Reliance Industries
 - [![serum](badges/inc/serum.svg)](https://arnoldvaz27.github.io/badges/inc/serum.svg) A badge used for representing person working in Serum Institute
+
+<br>
+
+### Tele Communication Companies 📱
+
+- [![airtel](badges/telecomcompanies/airtel.svg)](https://arnoldvaz27.github.io/badges/telecomcompanies/airtel.svg) A badge used for representing people or project related to Airtel
+- [![jio](badges/telecomcompanies/jio.svg)](https://arnoldvaz27.github.io/badges/telecomcompanies/jio.svg) A badge used for representing people or project related to Jio
+
+<br>
+
+### Space Organizations 🚀
+
+- [![nasa](badges/spaceorganizations/nasa.svg)](https://arnoldvaz27.github.io/badges/spaceorganizations/nasa.svg) A badge used for representing people or project related to Nasa
+
+<br>
+
+**More Badges coming soon** 
+
+Follow this project on [![github](badges/codespaces/github.svg)](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
+
+
+## Developed By
+
+### Made with ♥ by Arnold Vaz
