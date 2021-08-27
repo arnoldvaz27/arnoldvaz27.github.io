@@ -93,7 +93,7 @@
 
 ### Developement Tools ✨
 
-- [![apiary](badges/development/apiary.svg)](https://arnoldvaz27.github.io/badges/developement/apiary.svg) A badge used for representing Apiary
+- [![apiary](badges/development/apiary.svg)](https://arnoldvaz27.github.io/badges/development/apiary.svg) A badge used for representing Apiary
 - [![bower](badges/development/bower.svg)](https://arnoldvaz27.github.io/badges/development/bower.svg) A badge used for representing Bower
 - [![codrops](badges/development/codrops.svg)](https://arnoldvaz27.github.io/badges/development/codrops.svg) A badge used for representing Codrops
 - [![coremail](badges/development/coremail.svg)](https://arnoldvaz27.github.io/badges/development/coremail.svg) A badge used for representing Coremail
