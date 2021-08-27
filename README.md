@@ -225,7 +225,7 @@
 <br>
 
 
-# Web badges 😊 <a id="flat"></a>
+# Web Badges 😊 <a id="flat"></a>
 
 <br>
 
