@@ -1,7 +1,10 @@
 <a id="round"></a>
 #  Web Badges 😊 
 
-**View project on** [![github](webbadges/codespaces/github.svg)](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
+- **View project on** [![github](webbadges/codespaces/github.svg)](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
+
+- **View project on [Web](https://arnoldvaz27.github.io/)**
+
 
 <br>
 
