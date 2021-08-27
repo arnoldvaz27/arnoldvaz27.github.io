@@ -8,7 +8,7 @@
 
 <br>
 
-***Alternate Web Badges : -*** [Round Corner Web Badges](https://github.com/arnoldvaz27/arnoldvaz27.github.io/blob/main/README.md)
+***Alternate Web Badges : -*** [Round Corner Web Badges](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
 
 ## 📝 About
 
