@@ -443,4 +443,4 @@ Follow this project on [![github](webbadges/codespaces/github.svg)](https://gith
 
 ## Developed By
 
-### Made with ♥ by Arnold Vaz
+### Made with ❤️ by Arnold Vaz
