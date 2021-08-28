@@ -12,12 +12,12 @@
 
 <br>
 
-***Alternate Web Badges : -*** [Flat Corner Web Badges](https://arnoldvaz27.github.io/#flat)
+***Alternate Web Badges : -*** [Flat Corner](https://arnoldvaz27.github.io/#flat), [Only Round Corner](https://arnoldvaz27.github.io/#onlyround)
 
 
 ## 📝 About
 
-❤️ **These badges are created by me using the svg image coding, these badges can be used by anyone and where they want on the web using the link(url) of the respective badge. You can use these badges in any documentations you want, on github, in your website and lots of other web stuffs where you need these badges** ❤️
+❤️ **These badges are created by me using the svg image coding, these badges can be used by anyone and where ever they want on the web using the link(url) of the respective badge. You can use these badges in any documentations you want, on github, in your website and lots of other web stuffs where you need these badges** ❤️
 
 <br>
 
@@ -32,10 +32,13 @@
 - [![power point](webbadges/microsoft/powerpoint.svg)](https://arnoldvaz27.github.io/webbadges/microsoft/powerpoint.svg) A badge used for representing Powepoint
 - [![skype](webbadges/microsoft/skype.svg)](https://arnoldvaz27.github.io/webbadges/microsoft/skype.svg) A badge used for representing Skype
 - [![word](webbadges/microsoft/word.svg)](https://arnoldvaz27.github.io/webbadges/microsoft/word.svg) A badge used for representing Word
+
 <br>
 
 ### Code-spaces / Editors / Coding Community 📄
 
+- [![android studio](webbadges/codespaces/android_studio.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/android_studio.svg) A badge used for representing Android Studio Editor
+- [![eclipse](webbadges/codespaces/eclipse.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/eclipse.svg) A badge used for representing Eclipse Editor
 - [![atom](webbadges/codespaces/atom.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/atom.svg) A badge used for representing Atom Editor
 - [![codepen](webbadges/codespaces/codepen.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/codepen.svg) A badge used for representing Codepen Editor
 - [![dreamweaver](webbadges/codespaces/dreamweaver.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/dreamweaver.svg) A badge used for representing Dreamweaver Editor
@@ -63,6 +66,11 @@
 - [![golang](webbadges/programming/golang.svg)](https://arnoldvaz27.github.io/webbadges/programming/golang.svg) A badge used for representing Golang coding
 - [![java](webbadges/programming/java.svg)](https://arnoldvaz27.github.io/webbadges/programming/java.svg) A badge used for representing Java coding
 - [![javascript](webbadges/programming/javascript.svg)](https://arnoldvaz27.github.io/webbadges/programming/javascript.svg) A badge used for representing Javascript coding
+- [![hibernate](webbadges/programming/hibernate.svg)](https://arnoldvaz27.github.io/webbadges/programming/hibernate.svg) A badge used for representing Java Hibernate coding
+- [![java spring](webbadges/programming/java_spring.svg)](https://arnoldvaz27.github.io/webbadges/programming/java_spring.svg) A badge used for representing Java Spring coding
+- [![jquery](webbadges/programming/jquery.svg)](https://arnoldvaz27.github.io/webbadges/programming/jquery.svg) A badge used for representing Jquery coding
+- [![php](webbadges/programming/php.svg)](https://arnoldvaz27.github.io/webbadges/programming/php.svg) A badge used for representing PHP coding
+- [![python](webbadges/programming/python.svg)](https://arnoldvaz27.github.io/webbadges/programming/python.svg) A badge used for representing Python coding
 - [![jest 1](webbadges/programming/jest_1.svg)](https://arnoldvaz27.github.io/webbadges/programming/jest_1.svg) A badge used for representing Jest_1 (1st format)
 - [![jest 2](webbadges/programming/jest_2.svg)](https://arnoldvaz27.github.io/webbadges/programming/jest_2.svg) A badge used for representing Jest_2 (2nd format)
 - [![kotlin](webbadges/programming/kotlin.svg)](https://arnoldvaz27.github.io/webbadges/programming/kotlin.svg) A badge used for representing Kotlin coding
@@ -233,7 +241,7 @@
 
 <br>
 
-***Alternate Web Badges : -*** [Round Corner Web Badges](https://arnoldvaz27.github.io/#round)
+***Alternate Web Badges : -*** [Round Corner](https://arnoldvaz27.github.io/#round), [Only Round Corner](https://arnoldvaz27.github.io/#onlyround)
 
 <br>
 
@@ -248,10 +256,14 @@
 - [![power point](webbadges/microsoft/powerpoint_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/microsoft/powerpoint_flat_square.svg) A badge used for representing Powepoint
 - [![skype](webbadges/microsoft/skype_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/microsoft/skype_flat_square.svg) A badge used for representing Skype
 - [![word](webbadges/microsoft/word_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/microsoft/word_flat_square.svg) A badge used for representing Word
+
+
 <br>
 
 ### Code-spaces / Editors / Coding Community 📄
 
+- [![android studio](webbadges/codespaces/android_studio_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/android_studio_flat_square.svg) A badge used for representing Android Studio Editor
+- [![eclipse](webbadges/codespaces/eclipse_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/eclipse_flat_square.svg) A badge used for representing Eclipse Editor
 - [![atom](webbadges/codespaces/atom_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/atom_flat_square.svg) A badge used for representing Atom Editor
 - [![codepen](webbadges/codespaces/codepen_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/codepen_flat_square.svg) A badge used for representing Codepen Editor
 - [![dreamweaver](webbadges/codespaces/dreamweaver_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/codespaces/dreamweaver_flat_square.svg) A badge used for representing Dreamweaver Editor
@@ -279,6 +291,11 @@
 - [![golang](webbadges/programming/golang_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/golang_flat_square.svg) A badge used for representing Golang coding
 - [![java](webbadges/programming/java_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/java_flat_square.svg) A badge used for representing Java coding
 - [![javascript](webbadges/programming/javascript_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/javascript_flat_square.svg) A badge used for representing Javascript coding
+- [![hibernate](webbadges/programming/hibernate_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/hibernate_flat_square.svg) A badge used for representing Java Hibernate coding
+- [![java spring](webbadges/programming/java_spring_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/java_spring_flat_square.svg) A badge used for representing Java Spring coding
+- [![jquery](webbadges/programming/jquery_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/jquery_flat_square.svg) A badge used for representing Jquery coding
+- [![php](webbadges/programming/php_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/php_flat_square.svg) A badge used for representing PHP coding
+- [![python](webbadges/programming/python_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/python_flat_square.svg) A badge used for representing Python coding
 - [![jest 1](webbadges/programming/jest_1_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/jest_1_flat_square.svg) A badge used for representing Jest_1 (1st format)
 - [![jest 2](webbadges/programming/jest_2_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/jest_2_flat_square.svg) A badge used for representing Jest_2 (2nd format)
 - [![kotlin](webbadges/programming/kotlin_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/programming/kotlin_flat_square.svg) A badge used for representing Kotlin coding
@@ -432,6 +449,30 @@
 ### Space Organizations 🚀
 
 - [![nasa](webbadges/spaceorganizations/nasa_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/nasa_flat_square.svg) A badge used for representing people or project related to Nasa
+
+<br>
+
+-----------------------------------------------------
+
+<br>
+
+
+# Web Badges 😊 <a id="onlyround"></a>
+
+<br>
+
+***Alternate Web Badges : -*** [Round Corner](https://arnoldvaz27.github.io/#round), [Flat Corner](https://arnoldvaz27.github.io/#flat)
+
+***These badges are of high quality thus it will take time for them to load, but they can be used very easily*** 😊
+<br>
+
+### Cricket Clubs
+
+- [![mumbai indians](webbadges/cricketclubs/mumbai_indians.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/mumbai_indians.svg) A badge used for representing Mumbai Indians Club
+- [![chennai super kings](webbadges/cricketclubs/chennai_super_kings.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/chennai_super_kings.svg) A badge used for representing Chennai Super Kings Club
+- [![delhi capitals](webbadges/cricketclubs/delhi_capitals.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/delhi_capitals.svg) A badge used for representing Delhi Capitals Club
+- [![kolkata knight riders](webbadges/cricketclubs/kolkata_knight_riders.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/kolkata_knight_riders.svg) A badge used for representing Kolkata Knight Riders Club
+- [![royal_challengers_banglores](webbadges/cricketclubs/royal_challengers_banglore.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/royal_challengers_banglore.svg) A badge used for representing Royal Challengers Banglore Club
 
 <br><br>
 
