@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="25">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#08981C" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="140" height="25" rx="3" fill="#08981C"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v25H0z"/>
+        <path fill="#08981C" d="M25 0h140v25H25z"/>
+        <path fill="url(#b)" d="M0 0h140v25H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="14">
+        <image x="-11" y="-15" width="45" height="45" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iODAwIiB3aWR0aD0iMTIwMCIgdmlld0JveD0iLTcwLjA1NjkgLTYyLjU0MSA2MDcuMTU5OCAzNzUuMjQ2Ij48cGF0aCBkPSJNMjkzLjkxIDIxMi43NzVjLTYuMDI1IDAtMTAuOTI2LTQuOTA1LTEwLjkyNi0xMC45MyAwLTYuMDI1IDQuOTAxLTEwLjkyNiAxMC45MjYtMTAuOTI2IDYuMDI2IDAgMTAuOTI3IDQuOSAxMC45MjcgMTAuOTI2IDAgNi4wMjUtNC45MDEgMTAuOTMtMTAuOTI3IDEwLjkzbS0xMjAuNzc0IDBjLTYuMDI1IDAtMTAuOTI2LTQuOTA1LTEwLjkyNi0xMC45MyAwLTYuMDI1IDQuOS0xMC45MjYgMTAuOTI2LTEwLjkyNiA2LjAyNSAwIDEwLjkyNiA0LjkgMTAuOTI2IDEwLjkyNiAwIDYuMDI1LTQuOSAxMC45My0xMC45MjYgMTAuOTNtMTI0LjY5My02NS44MmwyMS44MzgtMzcuODIyYTQuNTQ4IDQuNTQ4IDAgMDAtMS42NjMtNi4yMDYgNC41NDkgNC41NDkgMCAwMC02LjIwNiAxLjY2M2wtMjIuMTExIDM4LjNjLTE2LjkxLTcuNzE2LTM1LjktMTIuMDE1LTU2LjE2NC0xMi4wMTUtMjAuMjY0IDAtMzkuMjU0IDQuMjk5LTU2LjE2MyAxMi4wMTVsLTIyLjExMi0zOC4zYTQuNTQ5IDQuNTQ5IDAgMDAtNi4yMDYtMS42NjMgNC41NDUgNC41NDUgMCAwMC0xLjY2MyA2LjIwNmwyMS44MzggMzcuODIyYy0zNy40OTkgMjAuMzk1LTYzLjE0NiA1OC4zNTgtNjYuODk4IDEwMy4yMDloMjYyLjQwOGMtMy43NTUtNDQuODUtMjkuNDAyLTgyLjgxNC02Ni44OTgtMTAzLjIxIiBmaWxsPSIjM2RkYjg1Ii8+PHBhdGggZmlsbD0ibm9uZSIgZD0iTTAgMGg0NjcuMDQ2djI1MC4xNjRIMHoiLz48L3N2Zz4="/>
+        <text x="81" y="18.6" fill="#08981C" fill-opacity=".1">Android Studio</text>
+        <text x="81" y="18">Android Studio</text>
+    </g>
+</svg>

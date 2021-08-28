@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="25">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#B38EE6" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="210" height="25" rx="3" fill="#B38EE6"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h30v25H0z"/>
+        <path fill="#B38EE6" d="M25 0h210v25H25z"/>
+        <path fill="url(#b)" d="M0 0h210v25H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="14">
+        <image x="2" y="2" width="20" height="20" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgODAgODAiIHdpZHRoPSIzMHB4IiBoZWlnaHQ9IjMwcHgiPjxwYXRoIGZpbGw9IiNkY2Q1ZjIiIGQ9Ik00MCw2MS41QzE4LjIyLDYxLjUsMC41LDUxLjg1NSwwLjUsNDBTMTguMjIsMTguNSw0MCwxOC41Uzc5LjUsMjguMTQ1LDc5LjUsNDBTNjEuNzgsNjEuNSw0MCw2MS41eiIvPjxwYXRoIGZpbGw9IiM4Yjc1YTEiIGQ9Ik00MCwxOWMyMS41MDUsMCwzOSw5LjQyMSwzOSwyMVM2MS41MDUsNjEsNDAsNjFTMSw1MS41NzksMSw0MFMxOC40OTUsMTksNDAsMTkgTTQwLDE4IEMxNy45MDksMTgsMCwyNy44NSwwLDQwczE3LjkwOSwyMiw0MCwyMnM0MC05Ljg1LDQwLTIyUzYyLjA5MSwxOCw0MCwxOEw0MCwxOHoiLz48cGF0aCBmaWxsPSIjMzY0MDRkIiBkPSJNMjUuMTEyIDM0YzEuNzI1IDAgMy4yMTQuNjIyIDQuMDg0IDEuNzA2Ljc0OS45MzQuOTgxIDIuMTcxLjY2OCAzLjU3N0MyOS4wMjMgNDMuMDc0IDI3LjM5NSA0NCAyMS41NyA0NGgtNC4xNGwxLjc1LTEwSDI1LjExMk0yNS4xMTIgMzJIMTcuNUwxNCA1MmgybDEuMDU2LTZoNC41MTVjNS44NjMgMCA5LjA1My0uOTA1IDEwLjI0Ni02LjI4NEMzMi44NDIgMzUuMDk2IDI5LjQzNiAzMiAyNS4xMTIgMzJMMjUuMTEyIDMyek02MS4xMTIgMzRjMS43MjUgMCAzLjIxNC42MjIgNC4wODQgMS43MDYuNzQ5LjkzNC45ODEgMi4xNzEuNjY4IDMuNTc3QzY1LjAyMyA0My4wNzQgNjMuMzk1IDQ0IDU3LjU3IDQ0aC00LjE0bDEuNzUtMTBINjEuMTEyTTYxLjExMiAzMkg1My41TDUwIDUyaDJsMS4wNTYtNmg0LjUxNWM1Ljg2MyAwIDkuMDUzLS45MDUgMTAuMjQ2LTYuMjg0QzY4Ljg0MiAzNS4wOTYgNjUuNDM2IDMyIDYxLjExMiAzMkw2MS4xMTIgMzJ6Ii8+PGc+PHBhdGggZmlsbD0iIzM2NDA0ZCIgZD0iTTQ5LjA3MiwzMy4yMTJDNDguMTkzLDMyLjM0OCw0Ni42NDQsMzIsNDQuMzM0LDMyaC01LjUzOEw0MCwyNmgtMi4xTDM0LDQ2aDEuOTlsMi4zODgtMTJoMC40MTkgaDUuNTM4YzIuMzM4LDAsMy4wOTQsMC40LDMuMzM1LDAuNjM3YzAuMzQzLDAuMzM4LDAuNDI0LDEuMjI2LDAuMjE3LDIuMzYzbC0xLjc2Nyw5aDIuMTA2bDEuNjI2LTguNjMgQzUwLjE5OSwzNS40NjIsNDkuOTM2LDM0LjA2Miw0OS4wNzIsMzMuMjEyeiIvPjwvZz48L3N2Zz4="/>
+        <text x="114" y="17" fill="#B38EE6" fill-opacity=".1">Hypertext Preprocessor</text>
+        <text x="114" y="17">Hypertext Preprocessor</text>
+    </g>
+</svg>
