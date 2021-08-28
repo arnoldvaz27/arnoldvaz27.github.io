@@ -497,6 +497,8 @@ Follow this project on [![github](webbadges/codespaces/github.svg)](https://gith
 
 The logo in webbages/ are trademarks of their respective companies and are under their terms and license.
 
+<br>
+
 ## Developed By
 
 ### Made with ❤️ by Arnold Vaz
