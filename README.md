@@ -463,7 +463,7 @@
 
 ***Alternate Web Badges : -*** [Round Corner](https://arnoldvaz27.github.io/#round), [Flat Corner](https://arnoldvaz27.github.io/#flat)
 
-***These badges are of high quality thus it will take time for them to load, but they can be used very easily*** 😊
+***These badges are of high quality thus it will take time for them to load, but they can be used very easily. These badges are only available in round corner shape*** 😊
 
 <br>
 
