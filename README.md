@@ -472,18 +472,18 @@
 
 ### Cricket Clubs
 
-- [![mumbai indians](webbadges/cricketclubs/mumbai_indians.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/mumbai_indians.svg) A badge used for representing Mumbai Indians Club
-- [![chennai super kings](webbadges/cricketclubs/chennai_super_kings.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/chennai_super_kings.svg) A badge used for representing Chennai Super Kings Club
-- [![delhi capitals](webbadges/cricketclubs/delhi_capitals.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/delhi_capitals.svg) A badge used for representing Delhi Capitals Club
-- [![kolkata knight riders](webbadges/cricketclubs/kolkata_knight_riders.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/kolkata_knight_riders.svg) A badge used for representing Kolkata Knight Riders Club
-- [![royal challengers banglores](webbadges/cricketclubs/royal_challengers_banglore.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/royal_challengers_banglore.svg) A badge used for representing Royal Challengers Banglore Club
-- [![barisal bulls](webbadges/cricketclubs/barisal_bulls.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/barisal_bulls.svg) A badge used for representing Barisal Bulls Club
-- [![chattogram challengers](webbadges/cricketclubs/chattogram_challengers.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/chattogram_challengers.svg) A badge used for representing Chattogram Challengers Club
-- [![cumilla warrirors](webbadges/cricketclubs/cumilla_warrirors.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/cumilla_warrirors.svg) A badge used for representing Cumilla Warrirors Club
-- [![dhaka platoon](webbadges/cricketclubs/dhaka_platoon.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/dhaka_platoon.svg) A badge used for representing Dhaka Platoon Club
-- [![khulna tigers](webbadges/cricketclubs/khulna_tigers.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/khulna_tigers.svg) A badge used for representing Khulna Tigers Club
-- [![rajshahi_royals](webbadges/cricketclubs/rajshahi_royals.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/rajshahi_royals.svg) A badge used for representing Rajshahi Royals Club
-- [![rangpur rangers](webbadges/cricketclubs/rangpur_rangers.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/rangpur_rangers.svg) A badge used for representing Rangpur Rangers Club
+- [![mumbai indians](webbadges/cricketclubs/mumbai_indians.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/mumbai_indians.svg) A badge used for representing Mumbai Indians Club
+- [![chennai super kings](webbadges/cricketclubs/chennai_super_kings.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/chennai_super_kings.svg) A badge used for representing Chennai Super Kings Club
+- [![delhi capitals](webbadges/cricketclubs/delhi_capitals.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/delhi_capitals.svg) A badge used for representing Delhi Capitals Club
+- [![kolkata knight riders](webbadges/cricketclubs/kolkata_knight_riders.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/kolkata_knight_riders.svg) A badge used for representing Kolkata Knight Riders Club
+- [![royal challengers banglores](webbadges/cricketclubs/royal_challengers_banglore.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/royal_challengers_banglore.svg) A badge used for representing Royal Challengers Banglore Club
+- [![barisal bulls](webbadges/cricketclubs/barisal_bulls.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/barisal_bulls.svg) A badge used for representing Barisal Bulls Club
+- [![chattogram challengers](webbadges/cricketclubs/chattogram_challengers.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/chattogram_challengers.svg) A badge used for representing Chattogram Challengers Club
+- [![cumilla warrirors](webbadges/cricketclubs/cumilla_warrirors.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/cumilla_warrirors.svg) A badge used for representing Cumilla Warrirors Club
+- [![dhaka platoon](webbadges/cricketclubs/dhaka_platoon.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/dhaka_platoon.svg) A badge used for representing Dhaka Platoon Club
+- [![khulna tigers](webbadges/cricketclubs/khulna_tigers.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/khulna_tigers.svg) A badge used for representing Khulna Tigers Club
+- [![rajshahi_royals](webbadges/cricketclubs/rajshahi_royals.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/rajshahi_royals.svg) A badge used for representing Rajshahi Royals Club
+- [![rangpur rangers](webbadges/cricketclubs/rangpur_rangers.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/rangpur_rangers.svg) A badge used for representing Rangpur Rangers Club
 
 <br><br>
 
