@@ -152,6 +152,11 @@
 - [![lamborghini](webbadges/cars/lamborghini.svg)](https://arnoldvaz27.github.io/webbadges/cars/lamborghini.svg) A badge used for representing Lamborghini
 - [![land rover](webbadges/cars/land_rover.svg)](https://arnoldvaz27.github.io/webbadges/cars/land_rover.svg) A badge used for representing Land Rover
 - [![maserati](webbadges/cars/maserati.svg)](https://arnoldvaz27.github.io/webbadges/cars/maserati.svg) A badge used for representing Maserati
+- [![marussia](webbadges/cars/marussia.svg)](https://arnoldvaz27.github.io/webbadges/cars/marussia.svg) A badge used for representing Marussia
+- [![mitsubishi](webbadges/cars/mitsubishi.svg)](https://arnoldvaz27.github.io/webbadges/cars/mitsubishi.svg) A badge used for representing Mitsubishi
+- [![porsche](webbadges/cars/porsche.svg)](https://arnoldvaz27.github.io/webbadges/cars/porsche.svg) A badge used for representing Porsche
+- [![tesla](webbadges/cars/tesla.svg)](https://arnoldvaz27.github.io/webbadges/cars/tesla.svg) A badge used for representing Tesla
+- [![toyota](webbadges/cars/toyota.svg)](https://arnoldvaz27.github.io/webbadges/cars/toyota.svg) A badge used for representing Toyota
 - [![mercedes benz](webbadges/cars/mercedes_benz.svg)](https://arnoldvaz27.github.io/webbadges/cars/mercedes_benz.svg) A badge used for Mercedes benz
 
 <br>
@@ -376,6 +381,11 @@
 - [![lamborghini](webbadges/cars/lamborghini_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/lamborghini_flat_square.svg) A badge used for representing Lamborghini
 - [![land rover](webbadges/cars/land_rover_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/land_rover_flat_square.svg) A badge used for representing Land Rover
 - [![maserati](webbadges/cars/maserati_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/maserati_flat_square.svg) A badge used for representing Maserati
+- [![marussia](webbadges/cars/marussia_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/marussia_flat_square.svg) A badge used for representing Marussia
+- [![mitsubishi](webbadges/cars/mitsubishi_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/mitsubishi_flat_square.svg) A badge used for representing Mitsubishi
+- [![porsche](webbadges/cars/porsche_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/porsche_flat_square.svg) A badge used for representing Porsche
+- [![tesla](webbadges/cars/tesla_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/tesla_flat_square.svg) A badge used for representing Tesla
+- [![toyota](webbadges/cars/toyota_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/toyota_flat_square.svg) A badge used for representing Toyota
 - [![mercedes benz](webbadges/cars/mercedes_benz_flat_square.svg)](https://arnoldvaz27.github.io/webbadges/cars/mercedes_benz_flat_square.svg) A badge used for Mercedes benz
 
 <br>
