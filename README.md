@@ -463,22 +463,39 @@
 
 ***Alternate Web Badges : -*** [Round Corner](https://arnoldvaz27.github.io/#round), [Flat Corner](https://arnoldvaz27.github.io/#flat)
 
-***These badges are of high quality thus it will take time for them to load, but they can be used very easily*** 😊
+***These badges are of high quality thus it will take time for them to load, but they can be used very easily. These badges are only available in round corner shape*** 😊
+
 <br>
+
+
+## 📛 List of Badges ```Only Round Corner```
 
 ### Cricket Clubs
 
-- [![mumbai indians](webbadges/cricketclubs/mumbai_indians.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/mumbai_indians.svg) A badge used for representing Mumbai Indians Club
-- [![chennai super kings](webbadges/cricketclubs/chennai_super_kings.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/chennai_super_kings.svg) A badge used for representing Chennai Super Kings Club
-- [![delhi capitals](webbadges/cricketclubs/delhi_capitals.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/delhi_capitals.svg) A badge used for representing Delhi Capitals Club
-- [![kolkata knight riders](webbadges/cricketclubs/kolkata_knight_riders.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/kolkata_knight_riders.svg) A badge used for representing Kolkata Knight Riders Club
-- [![royal_challengers_banglores](webbadges/cricketclubs/royal_challengers_banglore.svg)](https://arnoldvaz27.github.io/webbadges/spaceorganizations/royal_challengers_banglore.svg) A badge used for representing Royal Challengers Banglore Club
+- [![mumbai indians](webbadges/cricketclubs/mumbai_indians.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/mumbai_indians.svg) A badge used for representing Mumbai Indians Club
+- [![chennai super kings](webbadges/cricketclubs/chennai_super_kings.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/chennai_super_kings.svg) A badge used for representing Chennai Super Kings Club
+- [![delhi capitals](webbadges/cricketclubs/delhi_capitals.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/delhi_capitals.svg) A badge used for representing Delhi Capitals Club
+- [![kolkata knight riders](webbadges/cricketclubs/kolkata_knight_riders.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/kolkata_knight_riders.svg) A badge used for representing Kolkata Knight Riders Club
+- [![royal challengers banglores](webbadges/cricketclubs/royal_challengers_banglore.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/royal_challengers_banglore.svg) A badge used for representing Royal Challengers Banglore Club
+- [![barisal bulls](webbadges/cricketclubs/barisal_bulls.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/barisal_bulls.svg) A badge used for representing Barisal Bulls Club
+- [![chattogram challengers](webbadges/cricketclubs/chattogram_challengers.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/chattogram_challengers.svg) A badge used for representing Chattogram Challengers Club
+- [![cumilla warrirors](webbadges/cricketclubs/cumilla_warrirors.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/cumilla_warrirors.svg) A badge used for representing Cumilla Warrirors Club
+- [![dhaka platoon](webbadges/cricketclubs/dhaka_platoon.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/dhaka_platoon.svg) A badge used for representing Dhaka Platoon Club
+- [![khulna tigers](webbadges/cricketclubs/khulna_tigers.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/khulna_tigers.svg) A badge used for representing Khulna Tigers Club
+- [![rajshahi_royals](webbadges/cricketclubs/rajshahi_royals.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/rajshahi_royals.svg) A badge used for representing Rajshahi Royals Club
+- [![rangpur rangers](webbadges/cricketclubs/rangpur_rangers.svg)](https://arnoldvaz27.github.io/webbadges/cricketclubs/rangpur_rangers.svg) A badge used for representing Rangpur Rangers Club
 
 <br><br>
 
 **More Badges coming soon** 
 
 Follow this project on [![github](webbadges/codespaces/github.svg)](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
+
+<br>
+
+## Licenses
+
+The logo in webbages/ are trademarks of their respective companies and are under their terms and license.
 
 <br>
 
