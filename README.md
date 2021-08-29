@@ -1,3 +1,4 @@
+<body bgcolor="black">
 
 #  Web Badges 😊  <a id="round"></a>
 
@@ -512,3 +513,5 @@ The logo in webbages/ are trademarks of their respective companies and are under
 ## Developed By
 
 ### Made with ❤️ by Arnold Vaz
+
+</body>
