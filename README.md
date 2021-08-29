@@ -1,5 +1,3 @@
-<body bgcolor="black">
-
 #  Web Badges 😊  <a id="round"></a>
 
 - **View project on** [![github](webbadges/codespaces/github.svg)](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
@@ -513,5 +511,3 @@ The logo in webbages/ are trademarks of their respective companies and are under
 ## Developed By
 
 ### Made with ❤️ by Arnold Vaz
-
-</body>
