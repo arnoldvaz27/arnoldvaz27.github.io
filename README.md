@@ -1,4 +1,3 @@
-
 #  Web Badges 😊  <a id="round"></a>
 
 - **View project on** [![github](webbadges/codespaces/github.svg)](https://github.com/arnoldvaz27/arnoldvaz27.github.io)
