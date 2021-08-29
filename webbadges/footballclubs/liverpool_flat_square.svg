@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="110" height="28">
     <g shape-rendering="crispEdges">
         <path fill="#555" d="M0 0h32v28H0z"/>
-        <path fill="#00a398" d="M32 0h80v28H32z"/>
+        <path fill="#00a398" d="M32 0h110v28H32z"/>
     </g>
     <g fill="#fff"
         text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="14">
