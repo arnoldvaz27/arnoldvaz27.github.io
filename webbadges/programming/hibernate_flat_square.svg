@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="25">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="28">
     <g shape-rendering="crispEdges">
-        <path fill="#555" d="M0 0h25v25H0z"/>
-        <path fill="#68791F" d="M25 0h90v25H25z"/>
+        <path fill="#1BD4C2" d="M0 0h32v28H0z"/>
+        <path fill="#68791F" d="M32 0h120v28H32z"/>
     </g>
     <g fill="#fff"
-        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
-        <image x="2" y="2" width="21" height="21" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjM5NyIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTE1My42NzEgMTc4LjkzM2wtLjkzMiAyLjc1NyA0OS4xMzcgODMuMzQyIDIuNzgxIDEuOTY4TDI1NiAxNzguMjJsLTUxLjM0Mi04OS4xMzctNTAuOTg2IDg5Ljg1ek01MC4yNzMuMzA0TDAgODkuMDg0bDUyLjIzNCA4OS44NDkgNDkuNzM4LTg5Ljg1LS4xMzQtMy42M0w1Mi41NjUgMi4xMSA1MC4yNzMuMzA0eiIgZmlsbD0iIzU5NjY2QyIvPjxwYXRoIGQ9Ik01MC4yNzMuMzA0bDUxLjcgODguNzhoMTAyLjY4NEwxNTIuNjAxLjMwNEg1MC4yNzN6TTUyLjIzNCAxNzguOTMzTDEwMi44NjQgMjY3aDEwMS43OTNsLTUwLjk4Ni04OC4wNjdINTIuMjM0eiIgZmlsbD0iI0JDQUU3OSIvPjwvc3ZnPg=="/>
-        <text x="57" y="16.6">Hibernate</text>
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="14">
+        <image x="4" y="2" width="23" height="23" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjM5NyIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTE1My42NzEgMTc4LjkzM2wtLjkzMiAyLjc1NyA0OS4xMzcgODMuMzQyIDIuNzgxIDEuOTY4TDI1NiAxNzguMjJsLTUxLjM0Mi04OS4xMzctNTAuOTg2IDg5Ljg1ek01MC4yNzMuMzA0TDAgODkuMDg0bDUyLjIzNCA4OS44NDkgNDkuNzM4LTg5Ljg1LS4xMzQtMy42M0w1Mi41NjUgMi4xMSA1MC4yNzMuMzA0eiIgZmlsbD0iIzU5NjY2QyIvPjxwYXRoIGQ9Ik01MC4yNzMuMzA0bDUxLjcgODguNzhoMTAyLjY4NEwxNTIuNjAxLjMwNEg1MC4yNzN6TTUyLjIzNCAxNzguOTMzTDEwMi44NjQgMjY3aDEwMS43OTNsLTUwLjk4Ni04OC4wNjdINTIuMjM0eiIgZmlsbD0iI0JDQUU3OSIvPjwvc3ZnPg=="/>
+        <text x="77" y="18">Hibernate</text>
     </g>
 </svg>

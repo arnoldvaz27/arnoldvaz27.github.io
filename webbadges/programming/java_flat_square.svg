@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="20">
     <g shape-rendering="crispEdges">
-        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#88EE34" d="M0 0h25v20H0z"/>
         <path fill="#e76f00" d="M25 0h36v20H25z"/>
     </g>
     <g fill="#fff"
